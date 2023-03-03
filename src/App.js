@@ -3,9 +3,9 @@ import Linklist from "./Linklist";
 function App() {
   return (
     <div className="App">
-      <header>This is Header</header>
+      <header><h1>This is Header</h1></header>
       <div className="content">
-      <div className="aside">Manu Buttons</div>
+      <div className="aside"><h2>Manu Buttons</h2></div>
       <div><Linklist /></div>
       </div>
       
